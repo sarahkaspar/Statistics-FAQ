@@ -1,3 +1,0 @@
-# Hypothesis tests {#hypothesis-tests}
-
-Common hypothesis tests explained.

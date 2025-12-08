@@ -1,9 +1,0 @@
-
-
-## Welcome {.unnumbered}
-
-Welcome to the Statistics FAQ — your quick-reference guide for common questions in applied statistics and data analysis.
-Here you’ll find clear explanations, practical examples, and concise answers to many topics that arise in day-to-day research at EMBL.
-
-
-For further support, training, or project consultations, please visit the [Data Science Internal Support](https://www.embl.org/about/info/data-science-centre/training-support-community/).
