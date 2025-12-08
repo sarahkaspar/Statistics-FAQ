@@ -3,10 +3,10 @@ project:
   output-dir: _book
   
 book:
-  title: "Title of Next Bestseller"
-  author: "JJB"
+  title: "FAQ in statistics"
+  author: "Sarah Kaspar"
   description: | 
-    TBA
+    Frequently asked questions explained in short stand-alone articles.
   #cover-image: images/cover.png
   site-url: https://tutorials.thecoatlessprofessor.com/quarto-book-template
   repo-url: https://github.com/coatless-tutorials/quarto-book-template
@@ -15,11 +15,9 @@ book:
   sharing: [twitter, facebook, linkedin]
   chapters:
     - index.qmd
-    - part: my-first-book.qmd
+    - part: hypothesis-tests.qmd
       chapters: 
-        - hello-world.qmd
-  appendices:
-    - appendix-notes.qmd
+        - Wilcoxon.qmd
     
 format:
   html: 
