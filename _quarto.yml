@@ -8,8 +8,8 @@ book:
   description: | 
     Frequently asked questions explained in short stand-alone articles.
   #cover-image: images/cover.png
-  site-url: https://tutorials.thecoatlessprofessor.com/quarto-book-template
-  repo-url: https://github.com/coatless-tutorials/quarto-book-template
+  site-url: https://github.com/sarahkaspar/Statistics-FAQ
+  repo-url: https://github.com/sarahkaspar/Statistics-FAQ
   repo-branch: main
   repo-actions: [edit]
   sharing: [twitter, facebook, linkedin]
